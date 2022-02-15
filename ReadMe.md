@@ -1,3 +1,4 @@
 # YMRALBW
 
-This is my first git repo
+This is my first git repo!
+Trying git for the first time.
